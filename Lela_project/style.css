@@ -1,0 +1,16 @@
+body {
+	font-family: "Droid Sans";
+	background-image: url("cross_scratches.png");
+}
+
+header {
+	margin-bottom: 20px;
+}
+
+footer {
+	text-align: center;
+}
+
+aside {
+	text-align: right;
+}
